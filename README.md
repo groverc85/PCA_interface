@@ -1,6 +1,6 @@
 # PCA_interface
 
-###Introduction
+### Introduction
 1. Color histogram
   * Use HSV model 
   * 8*3*3 = 72 dimension
@@ -13,7 +13,7 @@
   * Combine the two vectors
   * training
 
-###Dataset
+### Dataset
 Part of  “Stanford Dogs Dataset”
 
 Link: http://vision.stanford.edu/aditya86/ImageNetDogs/
